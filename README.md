@@ -38,7 +38,7 @@ This repository contains the implementation of a VGA interface and a screensaver
 The implementation successfully displays different images as a screensaver on the VGA monitor, demonstrating the use of VGA signals and image ROMs in an FPGA environment.
 
 ## Acknowledgements
-- **CSE100 Course Instructors**
+- **CSE100 Course Instructors:** Ethan Sifferman
 - **Digilent for the Basys 3 Board Resources**
 
 ---
