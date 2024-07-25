@@ -1,5 +1,7 @@
 # CSE100 – Screensaver
 
+![image](https://github.com/user-attachments/assets/c285ae98-d225-4ad5-a458-8807dd32fb72)
+
 ## Overview
 This repository contains the implementation of a VGA interface and a screensaver for the Basys 3 FPGA Board as part of the CSE100 course. The lab demonstrates the use of VGA signals to display images stored in ROM, showcasing a simple screensaver.
 
