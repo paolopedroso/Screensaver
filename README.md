@@ -47,4 +47,4 @@ The implementation successfully displays different images as a screensaver on th
 
 This repository showcases the successful completion of CSE100 Lab 3, focusing on implementing and demonstrating a VGA interface and screensaver using the Basys 3 FPGA Board. The project includes detailed implementation of the VGA controller and screensaver modules, along with necessary scripts and configuration files.
 
-COPYRIGHT 2024 Paolo Pedroso
+All rights reserved | **Distribution Prohibited**
