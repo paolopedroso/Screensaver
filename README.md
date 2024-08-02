@@ -28,6 +28,16 @@ This repository contains the implementation of a VGA interface and a screensaver
 - Stretches the 160 × 120 images to fill the 640 × 480 VGA screen.
 - Synchronizes Hsync and Vsync pulses with pixel values.
 
+### Requirements
+
+To run this project, you will need the following:
+
+- **Basys 3 FPGA Board:** Required to program and run the final implementation.
+- **Xilinx Vivado:** Software for synthesizing, place-and-route, and programming the Basys 3 FPGA Board.
+- **Verilator:** Tool for linting and simulating Verilog code.
+- **Verible:** Linter for SystemVerilog.
+- **GTKWave:** Waveform viewer for viewing simulation results.
+
 ## How to Run
 1. **Simulation:**
    - Simulate the design using the provided simulation commands in the `README.md` file.
