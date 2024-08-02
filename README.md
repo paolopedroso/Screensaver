@@ -1,4 +1,4 @@
-# CSE100 – Screensaver
+# Screensaver
 
 ![image](https://github.com/user-attachments/assets/c285ae98-d225-4ad5-a458-8807dd32fb72)
 
